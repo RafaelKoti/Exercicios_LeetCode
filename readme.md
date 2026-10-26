@@ -1,1 +1,1 @@
-## Aqiui vou demonstrar meu conhecimento resolvendo exercícios do LeetCode!
+## Aqui vou demonstrar meu conhecimento resolvendo exercícios do LeetCode!
